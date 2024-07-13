@@ -5,9 +5,6 @@
             "developmentClient": false,
             "android": {
                 "buildType": "app-bundle"
-            },
-            "ios": {
-                "buildType": "app-store"
             }
         }
     },
