@@ -25,7 +25,6 @@
         },
         "web": {
             "favicon": "./assets/favicon.png"
-        },
-        "owner": "85bfae4d-e631-49bd-a520-ad640e8cefd5"
+        }
     }
 }
